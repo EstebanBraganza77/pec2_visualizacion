@@ -1,1 +1,1 @@
-# pec2_visualizacion
+# Pec 2 Visualización
